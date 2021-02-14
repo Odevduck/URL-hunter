@@ -1,7 +1,7 @@
 <h1 align="left">
     🔎UrlHunter
 </h1>
-<p align="left">📄This script makes several requests a url searching for directories and subdomains that this url is possible to</p>
+<p align="left">📄This script makes several requests a url searching for directories and subdomains that this url is possible to have</p>
 <p>
 <h2>usage:</h2>
   <ul>
