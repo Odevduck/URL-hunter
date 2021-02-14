@@ -7,6 +7,6 @@
   <ul>
       <li>help command:</li>
       <b>&nbsp;&nbsp;&nbsp;<code>./urlh.py DirectoriesWorldlist.txt SubdomainWorldlist.txt http://www.examplesite.net/</code></b>
-      <li>starting:<br>&nbsp;&nbsp;&nbsp;<img src=""></li>
+      <li>starting:<br>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Odevduck/URL-hunter/master/output.gif?token=AR2BQSHNVSWP6HUSJY347BDAFFH7M"></li>
   </ul>
 </p>
