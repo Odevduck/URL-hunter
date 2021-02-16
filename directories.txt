@@ -1,1 +1,1 @@
-exampleSubdomain
+this is just an example, you should look for your own wordlist
